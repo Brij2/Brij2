@@ -1,1 +1,13 @@
-Html
+<!DOCTYPE html>
+<html lang="en">
+
+<meta charset="utf-8">
+<title>Brijesh kumar</title>
+
+<body>
+   <h1>This is my website</h1>
+   <p>This is a under development.</p>
+   <p>This will be done soon.</p>
+</body>
+
+</html>
