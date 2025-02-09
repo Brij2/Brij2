@@ -2,9 +2,9 @@
 - 👀 I’m interested in learning more.
 - 🌱 I’m currently learning website making using GitHub
 - 💞️ I’m looking to collaborate on web development
-- 📫 How to reach me on in
+- 📫 How to reach me on Linkedin https://www.linkedin.com/in/brij2/
 ![2a53651a35816f499270d8275fd5318f](https://user-images.githubusercontent.com/76843623/193620552-8ad68ec4-ec49-4d0a-8987-e0a0645fc5ad.gif)
-stagram @brijesh_kumar_official_2.0
+
 
 <!---
 Brij2/Brij2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
